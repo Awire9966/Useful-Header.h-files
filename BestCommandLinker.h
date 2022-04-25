@@ -14,3 +14,5 @@
 #include <string>
 #include <regex>
 #include <stdlib.h>
+#include <algorithm>
+#include <thread>
